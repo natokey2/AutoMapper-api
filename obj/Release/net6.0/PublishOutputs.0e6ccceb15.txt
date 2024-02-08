@@ -1,0 +1,13 @@
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapperTutoriala
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapperTutoriala.dll
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapperTutoriala.deps.json
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapperTutoriala.runtimeconfig.json
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapperTutoriala.pdb
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapper.dll
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/natiq/Projects/AutoMapperTutoriala/obj/Release/net6.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll

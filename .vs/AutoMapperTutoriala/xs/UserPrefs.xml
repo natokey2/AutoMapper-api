@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C09AC5BB-DB29-4062-88C8-03F4E9B8ACDC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AutoMapperTutoriala PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SupperHero.cs">
+    <Files>
+      <File FileName="Controllers/SupperHeroController.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="AutoMapperProfile.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="SupperHero.cs" Line="3" Column="4" />
+      <File FileName="SupperHeroDto.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoMapperTutoriala" expanded="True">
+            <Node name="AutoMapperTutoriala" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
